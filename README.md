@@ -74,19 +74,24 @@ The analysis was completed across five business areas:
 ## Dashboard Pages
 * Page 1 — Executive Portfolio Overview - 
 Provides an executive summary of portfolio performance including revenue, profit, profit margin, revenue composition, product profitability, and delinquency KPIs.
-<img width="908" height="514" alt="image" src="https://github.com/user-attachments/assets/e63cb5c2-459f-482d-bd55-48a4971886dd" />
+<img width="903" height="506" alt="Executive" src="https://github.com/user-attachments/assets/a34af390-8361-49ac-b9df-cde65659996b" />
+
 
 * Page 2 — Product Profitability & Revenue Leakage - 
 Analyzes profitability across Classic, Gold, and Platinum cards while identifying major revenue leakage from cashback, rewards, and fee waivers.
+<img width="903" height="512" alt="Product" src="https://github.com/user-attachments/assets/26063535-c88b-436b-acc6-8d80d03f6143" />
 
  * Page 3 — Risk & Delinquency - 
 Evaluates delinquency movement across DPD buckets, outstanding balance exposure, and customer risk concentration.
+<img width="876" height="488" alt="Risk" src="https://github.com/user-attachments/assets/496d2adb-678f-4b72-9dc5-d4f86327e2e9" />
 
 *  Page 4 — Portfolio Health - 
 Analyzes portfolio health distribution, watchlist customers, high-risk accounts, and credit utilization.
+<img width="894" height="501" alt="Protfolio" src="https://github.com/user-attachments/assets/b06cf9a3-9a42-409a-a626-64298dd9d931" />
 
 * Page 5 — Customer & Spend Behaviour - 
 Explores customer profitability, spending categories, city-wise performance, and spending patterns.
+<img width="908" height="514" alt="Customer" src="https://github.com/user-attachments/assets/470a97ca-9a53-486c-85ea-d42b96464c7b" />
 
 ## Key Business Findings
 * Portfolio generated ₹50.38M in total revenue and ₹17.63M in net profit, achieving a 34.99% profit margin across 10,000 customers over 12 months.
