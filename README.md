@@ -74,6 +74,7 @@ The analysis was completed across five business areas:
 ## Dashboard Pages
 * Page 1 — Executive Portfolio Overview - 
 Provides an executive summary of portfolio performance including revenue, profit, profit margin, revenue composition, product profitability, and delinquency KPIs.
+<img width="908" height="514" alt="image" src="https://github.com/user-attachments/assets/e63cb5c2-459f-482d-bd55-48a4971886dd" />
 
 * Page 2 — Product Profitability & Revenue Leakage - 
 Analyzes profitability across Classic, Gold, and Platinum cards while identifying major revenue leakage from cashback, rewards, and fee waivers.
