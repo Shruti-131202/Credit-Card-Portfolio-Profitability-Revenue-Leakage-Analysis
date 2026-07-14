@@ -45,28 +45,28 @@ Metric	Value
 * GitHub – Version control and project documentation
 *  ## Analytical Approach
 The analysis was completed across five business areas:
-* 1. Portfolio Profitability
+* ### 1. Portfolio Profitability
 * Revenue
 * Cost
 * Net Profit
 * Profit Margin
 * Monthly Performance
-* 2. Product Profitability
+* ### 2. Product Profitability
 * Card Type Performance
 * Income Segment Analysis
 * Customer Profitability
 * City-wise Profitability
-* 3. Revenue Leakage
+* ### 3. Revenue Leakage
 * Cashback Cost
 * Reward Cost
 * Fee Waivers
 * Leakage Ratio
-* 4. Portfolio Risk
+* ### 4. Portfolio Risk
 * Delinquency Analysis
 * Outstanding Balance Exposure
 * Credit Utilization
 * Portfolio Health
-* 5. Customer Spending Behaviour
+* ### 5. Customer Spending Behaviour
 * Spending Categories
 * Transaction Analysis
 * Customer Value
@@ -76,19 +76,15 @@ The analysis was completed across five business areas:
 Provides an executive summary of portfolio performance including revenue, profit, profit margin, revenue composition, product profitability, and delinquency KPIs.
 
 * Page 2 — Product Profitability & Revenue Leakage - 
-
 Analyzes profitability across Classic, Gold, and Platinum cards while identifying major revenue leakage from cashback, rewards, and fee waivers.
 
  * Page 3 — Risk & Delinquency - 
-
 Evaluates delinquency movement across DPD buckets, outstanding balance exposure, and customer risk concentration.
 
 *  Page 4 — Portfolio Health - 
-
 Analyzes portfolio health distribution, watchlist customers, high-risk accounts, and credit utilization.
 
 * Page 5 — Customer & Spend Behaviour - 
-
 Explores customer profitability, spending categories, city-wise performance, and spending patterns.
 
 ## Key Business Findings
